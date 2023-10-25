@@ -1,2 +1,3 @@
-#1 Weather app
-* Api - https://openweathermap.org/
+#1 Weather app - using https://openweathermap.org/
+#2 Quiz App 
+
