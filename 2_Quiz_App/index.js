@@ -1,47 +1,47 @@
 const questions = [
     {
-        question: "What is Love?",
+        question: "Who Invented the 3-D printer?",
         answers: [
-            {text: "Understanding", correct: false},
-            {text: "Dhokha", correct: true},
-            {text: "Light in Dark", correct: false},
-            {text: "None of These", correct: false}
+            {text: "Nick Holonyak", correct: false},
+            {text: "Chuck Hull", correct: true},
+            {text: "Elias Howe", correct: false},
+            {text: "Christiaan Huygens", correct: false}
         ]
     },
     {
-        question: "What is Love?",
+        question: "What is the maximum number of Members in Lok Sabha?",
         answers: [
-            {text: "Understanding", correct: false},
-            {text: "Dhokha", correct: true},
-            {text: "Light in Dark", correct: false},
-            {text: "None of These", correct: false}
+            {text: "512", correct: false},
+            {text: "542", correct: false},
+            {text: "552", correct: true},
+            {text: "532", correct: false}
         ]
     },
     {
-        question: "What is Love?",
+        question: "Who was court poet of Samudragupta?",
         answers: [
-            {text: "Understanding", correct: false},
-            {text: "Dhokha", correct: true},
-            {text: "Light in Dark", correct: false},
-            {text: "None of These", correct: false}
+            {text: "Chand Bardai", correct: false},
+            {text: "Bhavabhuti", correct: false},
+            {text: "Banabhatta", correct: false},
+            {text: "Harishen", correct: true}
         ]
     },
     {
-        question: "What is Love?",
+        question: "Who was the first Tirthankara of the Jains?",
         answers: [
-            {text: "Understanding", correct: false},
-            {text: "Dhokha", correct: true},
-            {text: "Light in Dark", correct: false},
-            {text: "None of These", correct: false}
+            {text: "Ajitnath", correct: false},
+            {text: "Rishabhdev", correct: true},
+            {text: "Aristhenemi", correct: false},
+            {text: "Parshwnath", correct: false}
         ]
     },
     {
-        question: "What is Love?",
+        question: "The Grand Canyon located in which country? ",
         answers: [
-            {text: "Understanding", correct: false},
-            {text: "Dhokha", correct: true},
-            {text: "Light in Dark", correct: false},
-            {text: "None of These", correct: false}
+            {text: "Ghana", correct: false},
+            {text: "The US", correct: true},
+            {text: "Canada", correct: false},
+            {text: "Bolivia", correct: false}
         ]
     }
 ];
