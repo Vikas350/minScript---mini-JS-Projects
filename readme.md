@@ -2,3 +2,5 @@
 
 #2 Quiz App 
 
+#3 Random Password Generator
+
